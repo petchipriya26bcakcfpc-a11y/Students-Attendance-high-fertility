@@ -74,6 +74,12 @@ Screens
 <img width="150" height="300" alt="Profile Preview" src="https://github.com/user-attachments/assets/a32b2f14-95fc-45e9-a39f-c5b51e6e0734" />
 
 
+Developed By B.Petchi Priya
+
+License This project is created for educational purpose only
+
+
+
 
 
 
